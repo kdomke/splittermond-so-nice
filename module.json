@@ -17,5 +17,8 @@
     ],
     "scripts": [
         "scripts/initialize.js"
-      ]
+      ],
+
+      "manifest": "https://bitbucket.org/kdomke/splittermond-so-nice/raw/main/module.json",
+      "download": "https://bitbucket.org/kdomke/splittermond-so-nice/get/main.zip"
   }
