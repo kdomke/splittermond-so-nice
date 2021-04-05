@@ -21,10 +21,10 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
    *                                   Supported shapes are d2,d4,d6,d8,d10,d12,d20
    */
 
-   dice3d.addDicePreset({
+  dice3d.addDicePreset({
     type: "d10",
     labels: ["1", "2", "3", "4", "5", "6", "7", "8", "9", "modules/splittermond-so-nice/graphics/splittermond_d10.png"],
-    bumpMaps: [,,,,,,,,,"modules/splittermond-so-nice/graphics/splittermond_d10_bump.png"],
+    bumpMaps: [, , , , , , , , , "modules/splittermond-so-nice/graphics/splittermond_d10_bump.png"],
     font: "Didot",
     system: "SM"
   });
@@ -32,7 +32,7 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
   dice3d.addDicePreset({
     type: "d6",
     labels: ["1", "2", "3", "4", "5", "modules/splittermond-so-nice/graphics/splittermond_d6.png"],
-    bumpMaps: [,,,,,"modules/splittermond-so-nice/graphics/splittermond_d6_bump.png"],
+    bumpMaps: [, , , , , "modules/splittermond-so-nice/graphics/splittermond_d6_bump.png"],
     font: "Didot",
     system: "SM"
   });
