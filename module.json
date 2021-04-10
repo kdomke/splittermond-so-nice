@@ -11,10 +11,6 @@
       "name": "dice-so-nice",
       "manifest": "https://gitlab.com/riccisi/foundryvtt-dice-so-nice/raw/3.3.2/module/module.json"
     },
-    {
-      "name": "splittermond",
-      "type": "system"
-    }
   ],
   "scripts": [
     "scripts/initialize.js"
