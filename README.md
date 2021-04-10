@@ -4,4 +4,4 @@
 
 ![Rollende Würfel mit Splittermondlogo](screenshots/rolling.gif "Rollende Würfel mit Splittermondlogo")
 
-**Installations URL:** [https://bitbucket.org/kdomke/splittermond-so-nice/raw/main/module.json](https://bitbucket.org/kdomke/splittermond-so-nice/raw/main/module.json)
+**Installations URL:** [https://bitbucket.org/neither-nor/splittermond-so-nice/raw/main/module.json](https://bitbucket.org/neither-nor/splittermond-so-nice/raw/main/module.json)
