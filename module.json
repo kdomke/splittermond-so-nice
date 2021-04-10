@@ -10,7 +10,7 @@
     {
       "name": "dice-so-nice",
       "manifest": "https://gitlab.com/riccisi/foundryvtt-dice-so-nice/raw/3.3.2/module/module.json"
-    },
+    }
   ],
   "scripts": [
     "scripts/initialize.js"
