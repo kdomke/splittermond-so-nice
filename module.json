@@ -3,7 +3,7 @@
   "title": "Splittermond dice so nice",
   "description": "Add Splittermond symbol to dice",
   "author": "KristianD",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "minimumCoreVersion": "0.7.9",
   "compatibleCoreVersion": "0.7.9",
   "dependencies": [
