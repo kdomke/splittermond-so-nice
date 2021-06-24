@@ -3,7 +3,8 @@
   "title": "Splittermond dice so nice",
   "description": "Add Splittermond symbol to dice",
   "author": "KristianD",
-  "version": "0.1.1",
+  "url": "https://bitbucket.org/neither-nor/splittermond-so-nice/src/main/",
+  "version": "0.1.2",
   "minimumCoreVersion": "0.7.9",
   "compatibleCoreVersion": "0.8.7",
   "dependencies": [
