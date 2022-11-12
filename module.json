@@ -3,19 +3,19 @@
   "title": "Splittermond dice so nice",
   "description": "Add Splittermond symbol to dice",
   "author": "KristianD",
-  "url": "https://bitbucket.org/neither-nor/splittermond-so-nice/src/main/",
-  "version": "0.1.2",
+  "url": "",
+  "version": "",
   "minimumCoreVersion": "0.7.9",
   "compatibleCoreVersion": "0.8.7",
   "dependencies": [
     {
       "name": "dice-so-nice",
-      "manifest": "https://gitlab.com/riccisi/foundryvtt-dice-so-nice/raw/3.3.2/module/module.json"
+      "manifest": "https://gitlab.com/riccisi/foundryvtt-dice-so-nice/-/raw/master/module/module.json"
     }
   ],
   "scripts": [
     "scripts/initialize.js"
   ],
-  "manifest": "https://bitbucket.org/neither-nor/splittermond-so-nice/raw/main/module.json",
-  "download": "https://bitbucket.org/neither-nor/splittermond-so-nice/get/main.zip"
+  "manifest": "",
+  "download": ""
 }
