@@ -57,6 +57,9 @@ jobs:
           body: ${{ github.event.release.body }}
 
   publish:
+    name: Publish Module
+    runs-on: ubuntu
+    steps:
       - name: Publish Module to FoundryVTT Website
         id: publish-to-foundry-website
         uses: cs96and/FoundryVTT-release-package@v1
