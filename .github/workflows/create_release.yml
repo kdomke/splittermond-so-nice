@@ -58,6 +58,7 @@ jobs:
 
   publish:
     name: Publish Module
+    needs: prepare
     runs-on: ubuntu-latest
     steps:
       - name: Publish Module to FoundryVTT Website
