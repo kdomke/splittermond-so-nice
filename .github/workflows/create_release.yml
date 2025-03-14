@@ -58,7 +58,7 @@ jobs:
 
   publish:
     name: Publish Module
-    runs-on: ubuntu
+    runs-on: ubuntu-latest
     steps:
       - name: Publish Module to FoundryVTT Website
         id: publish-to-foundry-website
