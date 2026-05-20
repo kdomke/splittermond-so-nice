@@ -11,9 +11,9 @@
   "url": "",
   "version": "",
   "compatibility": {
-    "minimum": 12,
-    "verified": 13.346,
-    "maximum": 13
+    "minimum": 13,
+    "verified": 13.351,
+    "maximum": 14
   },
 "relationships": {
   "systems": [{
@@ -21,7 +21,7 @@
     "type": "system",
     "manifest": "https://raw.githubusercontent.com/SplittermondFoundry/Splittermond/main/public/system.json",
     "compatibility": {
-      "verified": "13.2.1"
+      "verified": "13.12.0"
     }
   }],
   "requires": [{
@@ -29,7 +29,7 @@
     "type": "module",
     "manifest": "https://gitlab.com/riccisi/foundryvtt-dice-so-nice/-/raw/master/module/module.json",
     "compatibility": {
-      "verified": "5.1.8"
+      "verified": "5.3.2"
     }
   }]
 },  
